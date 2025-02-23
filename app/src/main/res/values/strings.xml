@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComprasApp</string>
+        <string name="menu_vaciar_carrito">Vaciar Carrito</string>
+        <string name="menu_confirmar_compra">Confirmar Compra</string>
+        <string name="menu_ver_carrito">Ver Carrito</string>
+          <string name="menu_configuracion">Configuración</string>
+</resources>
